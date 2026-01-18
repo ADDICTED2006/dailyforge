@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:habit_tracker/models/category_model.dart';
 import 'package:habit_tracker/providers/habit_provider.dart';
 import 'package:provider/provider.dart';
+import 'package:habit_tracker/l10n/app_localizations.dart'; // Add import
 
 class CategoryDetailScreen extends StatefulWidget {
   final Category category;

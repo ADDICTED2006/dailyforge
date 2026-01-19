@@ -12,14 +12,6 @@
 *   **Beautiful UI**: Dark mode, smooth animations, and a polished design system.
 *   **Privacy First**: All data is stored locally on your device.
 
-## 📱 Screenshots
-
-| Home Screen | Stats | Dark Mode |
-|:---:|:---:|:---:|
-| ![Home](assets/screenshots/home.png) | ![Stats](assets/screenshots/stats.png) | ![Dark](assets/screenshots/dark.png) |
-
-*(Note: Add screenshots to an `assets/screenshots` folder)*
-
 ## 🛠️ Built With
 
 *   **Framework**: [Flutter](https://flutter.dev/)
